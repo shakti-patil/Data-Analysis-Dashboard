@@ -32,7 +32,7 @@ This project involves the creation of a comprehensive business intelligence dash
 ## Dashboard
 ![Screenshot 2025-05-15 112548](https://github.com/user-attachments/assets/a03210e1-4c05-4669-976b-c2b5bb9759bb)
 
-##Project Insights
+## Project Insights
 - Opportunity to shift focus toward high-yield platforms.
 - Indicates stronger performance or demand in business-class offerings.
 - Weekly trends show relatively stable ADR and RevPAR, but fluctuations in occupancy % suggest periodic demand shifts
