@@ -19,3 +19,4 @@ This project involves the creation of a comprehensive business intelligence dash
 -What is the average ADR (Average Daily Rate) by property and booking platform?
 -What percentage of revenue comes from Luxury vs Business room categories?
 
+-Dashboard Interaction
