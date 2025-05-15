@@ -19,9 +19,16 @@ This project involves the creation of a comprehensive business intelligence dash
 -What is the average ADR (Average Daily Rate) by property and booking platform?
 -What percentage of revenue comes from Luxury vs Business room categories?
 
--Dashboard Interaction  <a href = "https://github.com/shakti-patil/Data-Analysis-Dashboard/blob/main/Screenshot%202025-05-15%20112548.png">Project Dashboard</a>">
+-Dashboard Interaction  <a href = "https://github.com/shakti-patil/Data-Analysis-Dashboard/blob/main/Screenshot%202025-05-15%20112548.png">View Dashboard</a>">
 
 ## Process
 -Data Collection
 -Handled missing values, date formatting, and inconsistent property names.
--
+-Created relationships between tables
+-Designed the visual layout using KPI cards, line charts, pie charts, bar graphs, and detailed tables to display performance metrics in an intuitive and readable format.
+-Implemented filters and slicers for city, room type, and time range (weekly view). Enabled drill-down functionality for property-level insights and platform comparisons.
+-Published the dashboard to the BI platform with scheduled data refreshes.
+
+## Dashboard
+![Screenshot 2025-05-15 112548](https://github.com/user-attachments/assets/a03210e1-4c05-4669-976b-c2b5bb9759bb)
+
