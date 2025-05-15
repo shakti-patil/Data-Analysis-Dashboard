@@ -9,12 +9,13 @@ This project involves the creation of a comprehensive business intelligence dash
 - <a href = "https://github.com/shakti-patil/Data-Analysis-Dashboard/blob/main/fact_bookings.csv">Bookings Dataset</a>
 
 ##Questions(KPIs)
--What is the total revenue generated across all properties
--How much revenue does each property contribute
+-What is the total revenue generated across all properties?
+-How much revenue does each property contribute?
 -What is the Revenue Per Available Room (RevPAR)
--What is the average occupancy rate across all properties
--How does occupancy vary between weekdays and weekends
+-What is the average occupancy rate across all properties?
+-How does occupancy vary between weekdays and weekends?
 -What is the total number of Daily Sellable Room Nights (DSRN)
 -How many rooms were actually booked (DBRN) and utilized (DURN)
--What is the average ADR (Average Daily Rate) by property and booking platform
--What percentage of revenue comes from Luxury vs Business room categories
+-What is the average ADR (Average Daily Rate) by property and booking platform?
+-What percentage of revenue comes from Luxury vs Business room categories?
+
