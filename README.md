@@ -9,7 +9,7 @@ This project involves the creation of a comprehensive business intelligence dash
 - <a href = "https://github.com/shakti-patil/Data-Analysis-Dashboard/blob/main/fact_bookings.csv">Bookings Dataset</a>
 
 ##Questions(KPIs)
--What is the total revenue generated across all properties?
+- What is the total revenue generated across all properties?
 -How much revenue does each property contribute?
 -What is the Revenue Per Available Room (RevPAR)
 -What is the average occupancy rate across all properties?
