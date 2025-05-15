@@ -32,3 +32,11 @@ This project involves the creation of a comprehensive business intelligence dash
 ## Dashboard
 ![Screenshot 2025-05-15 112548](https://github.com/user-attachments/assets/a03210e1-4c05-4669-976b-c2b5bb9759bb)
 
+##Project Insights
+-Opportunity to shift focus toward high-yield platforms.
+-Indicates stronger performance or demand in business-class offerings.
+-Weekly trends show relatively stable ADR and RevPAR, but fluctuations in occupancy % suggest periodic demand shifts
+-Several properties maintain high average ratings (above 4.3), reflecting good customer satisfaction and service quality.
+
+## Final Conclusion
+The Hotel Performance Analytics Dashboard successfully delivers a unified and data-driven view of hotel operations across multiple cities and properties. By integrating key performance indicators such as revenue, RevPAR, ADR, occupancy rate, and customer ratings, the dashboard empowers stakeholders to monitor trends, evaluate property performance, and make informed strategic decisions.The analysis reveals that while overall revenue and ADR are strong, there is room to improve occupancy rates and maximize realization percentages. Platform-specific insights highlight opportunities to optimize distribution channels, while high cancellation rates suggest a need for improved booking policies or guest engagement.
