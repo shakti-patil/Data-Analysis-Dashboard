@@ -20,3 +20,8 @@ This project involves the creation of a comprehensive business intelligence dash
 -What percentage of revenue comes from Luxury vs Business room categories?
 
 -Dashboard Interaction  <a href = "https://github.com/shakti-patil/Data-Analysis-Dashboard/blob/main/Screenshot%202025-05-15%20112548.png">Project Dashboard</a>">
+
+## Process
+-Data Collection
+-Handled missing values, date formatting, and inconsistent property names.
+-
